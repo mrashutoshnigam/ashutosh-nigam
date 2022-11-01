@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Microsoft Azure and AWS
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me by https://ashutoshnigam.in 
+- 📫 You can reach me by https://mrashutoshnigam.in
 
 <!---
 ashutosh-nigam/ashutosh-nigam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
